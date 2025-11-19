@@ -2,7 +2,7 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! 🐍 ☁️ </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="550" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVmZ2gzdWNxdDFqcjVxb3JydDgweGI1ZGhkc2tzajJseWRxN25xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif">
 </p>
 
 
