@@ -5,13 +5,6 @@
   <img width="550" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVmZ2gzdWNxdDFqcjVxb3JydDgweGI1ZGhkc2tzajJseWRxN25xaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif">
 </p>
 
-
-<p align="center">
-<img src="https://img.icons8.com/windows/32/000000/dev.png"/>
-<img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/>
-<img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/>
-</p>
-
 <p align="center"><samp>
 Check out my null repos ⬇️  
   </samp>
