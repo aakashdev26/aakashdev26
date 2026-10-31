@@ -17,9 +17,9 @@ Check out my null repos ⬇️
 
 <img src="https://streak-stats.demolab.com?user=aakashdev26&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashdev26&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashdev26&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aakashdev26&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aakashdev26&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/> -->
 
 </div>
 
